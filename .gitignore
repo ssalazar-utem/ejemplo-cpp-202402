@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+/app/dist/
+/app/build/
+nbproject/
+
